@@ -22,3 +22,32 @@ REIN.ai is an insurtech start-up; its public-facing product is droneinsurance.co
 
 While at REIN, my responsibilities included full-stack development utilizing a micro-service architecture (Multiple Rails APIs, React Frontend, Redis for inter-service communication). I worked with a small team to build a new admin dashboard to support our existing products. The admin interface development included the consumption of existing APIs and the construction of new ones. This project required that I build a JWT consumer to integrate with our existing authentication mechanisms. In addition to development, I was responsible for deploying the new admin dashboard to our AWS based rancher infrastructure. I was required to dockerize the application as well as build and maintain its CircleCI configurations. I also migrated two of our other applications from outdated docker base images to alpine based ruby images built and maintained by the ruby community. I participated in regular code reviews. I mentored junior developers, and was available to pair with them when they encountered difficulties.
 
+## Contract Developer @ [Once A Month Meals](https://onceamonthmeals.com)
+### (Dayton, OH | Remote)  April – Sept. 2019
+Once A Month Meals is a mommy-blog turned membership site to help members with meal planning.
+
+I was brought on at Once a Month Meals to add a new nutrition label feature to their existing application. The architecture consisted of a Rails Backend API and Admin dashboard, coupled with a Wordpress frontend. For the nutrition label feature to work, we mapped every individual ingredient in our system to a matching ingredient in our nutrition data provider’s database. The application would then calculate the nutrition information for each recipe based on the ingredients and amounts used. Each time a user requested a recipe, the nutrition facts were calculated. I built a Redis-based Russian-doll style caching system to store the nutrition information for each ingredient, caching at the ingredient level allowed for more cache hits when other recipes used the same ingredient. Due to licensing restrictions, we could only cache the data for 24 hours. To further increase the performance of the application, I built a rake task to identify the 200 most visited recipes from the previous day and warm the cache with the nutrition data for those ingredients.
+
+## Platform Engineer  @ [CloudApp (Now Zight)](https://zight.com)
+### (San Fransisco, CA | Remote)  May 2018 – Jan. 2019
+CloudApp is a screenshot and video sharing service with applications for Mac, PC, and Mobile.
+
+While at CloudApp, I was on the platform engineering team, and worked with a team to maintain and add new features to an aging micro-service based application. The technologies used as CloudApp were varied; the main API was Rails back-end; however, the stack included AWS Lamda, GraphQL, and utilized S3 for file storage. The Frontend was a React-based application written in TypeScript. Though most of my work at CloudApp was maintenance and minor feature work, I was also tasked with digging into AWS issues that we were having. I, along with one other developer, built a CloudApp Adobe XD Plugin. CloudApp was a partner with Adobe, and this allowed us pre-release access to the new plugin feature, and when Adobe publicly launched the XD plugins the CloudApp plugin was one of the ones featured.
+
+## Rails Engineer @ [Eezy](https://eezy.com)
+### (Bowling Green, KY | Remote)  July 2016 – May 2018
+Eezy is a creative content distribution platform, operating more than ten sites.
+
+The four main sites at Eezy were Rails-based and shared the same code base, hooks in the deploy script would customize the theming for each. While at Eezy, I worked on maintenance and new feature development on the aging monolith. Day-to-day tasks included working with and adding new features to our Solr implementation, creating perfect pixel HTML from PSDs, Dockerizing the application and API work. One of the more interesting assignments was the development of a Slack application for Vecteezy, which also required deployment to our AWS based infrastructure. Eezy also operated several Wordpress based sites that would occasionally require migration or other maintenance.
+
+## CTO / Co-Founder @ Elevate Atlantic
+### (Halifax, NS | Remote) Oct 2014 – May 2018
+Elevate Atlantic was a Services on-demand startup, initially we focused on snow removal and then later pivoted to other household services.
+
+I, along with my business partner, founded the Elevate Atlantic. I was the technical co-founder and built the entire application, which consisted of a Rails-based application and an accompanying iOS and Android application for our contract partners. It utilized Stripe’s Connect platform to charge customers and pay our contractor partners. The application was deployed on bare metal in an OVH Datacenter with Capistrano. Our early work with the company earned us access to the Propel ICT startup accelerator, where I learn ednumerous business best practices, which I have applied in all subsequent roles.
+
+## Senior Developer @ [Current Studios](https://www.currentstudios.com)
+### (Halifax, NS)  Dec. 2010 – April 2016
+Current Studios is a digital advertising agency based in Halifax, Nova Scotia.
+
+The four main sites at Eezy were Rails-based and shared the same code base, hooks in the deploy script would customize the theming for each. While at Eezy, I worked on maintenance and new feature development on the aging monolith. Day-to-day tasks included working with and adding new features to our Solr implementation, creating perfect pixel HTML from PSDs, Dockerizing the application and API work. One of the more interesting assignments was the development of a Slack application for Vecteezy, which also required deployment to our AWS based infrastructure. Eezy also operated several Wordpress based sites that would occasionally require migration or other maintenance.
