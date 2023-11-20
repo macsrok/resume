@@ -1,16 +1,14 @@
 # Joe Simms
 Senior Software Engineer
 
-I am a software developer with 12+ years of experience. I co-founded Elevate Atlantic while participating in the Propel ICT start-up accelerator. Additionally, I have worked remotely with several teams to maintain and add features to existing applications. I am seeking a position as a Full- Stack Ruby on Rails Developer.
-
 [hireme@joesim.ms](mailto:hireme@joesim.ms)
 
 References: Avaliable upon request
 
 # Summary
 
-Driven Senior Software Engineer with a proven track record in diverse tech environments.
-Proficient in modernizing and scaling mature monoliths to enhance performance, reliability, and scalability. Skilled in leading pivotal projects, including integrations with diverse third-party APIs, and adept at crafting fundamental development patterns to streamline processes. Experience spans insurtech startups, digital platforms, and services-on-demand ventures. Strong mentorship ability and a commitment to leveraging cutting-edge technologies to drive innovation and efficiency.
+Experienced Full-Stack Ruby on Rails Developer and Co-Founder with 15+ years of diverse software development expertise.
+Co-founded Elevate Atlantic during participation in the Propel ICT startup accelerator. Adept in remote collaboration, maintaining, and enhancing existing applications across various teams. Demonstrated success in modernizing and scaling mature monoliths for improved performance and reliability. Proven leadership in pivotal integration projects involving diverse third-party APIs. Skilled in crafting foundational development patterns to optimize processes. Thrives in insurtech startups, digital platforms, and services-on-demand domains. Strong mentoring skills coupled with a commitment to leveraging cutting-edge technologies for innovation and operational efficiency.
 
 # Experience
 
