@@ -53,3 +53,14 @@ I, along with my business partner, founded the Elevate Atlantic. I was the techn
 Current Studios is a digital advertising agency based in Halifax, Nova Scotia.
 
 The four main sites at Eezy were Rails-based and shared the same code base, hooks in the deploy script would customize the theming for each. While at Eezy, I worked on maintenance and new feature development on the aging monolith. Day-to-day tasks included working with and adding new features to our Solr implementation, creating perfect pixel HTML from PSDs, Dockerizing the application and API work. One of the more interesting assignments was the development of a Slack application for Vecteezy, which also required deployment to our AWS based infrastructure. Eezy also operated several Wordpress based sites that would occasionally require migration or other maintenance.
+
+---
+
+## Skills
+
+- **Programming Languages:** Ruby, JavaScript, CSS
+- **Frameworks & Technologies:** Ruby on Rails, AWS, Docker, Tailwind, Stimulus
+- **Database Management:** PostgreSQL, MySQL, Redis
+- **DevOps & Tools:** CircleCI, AWS ECS / Code Deploy, Capistrano
+- **Project Management:** Agile methodologies, Scrum
+
