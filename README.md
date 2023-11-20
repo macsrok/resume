@@ -7,6 +7,10 @@ I am a software developer with 12+ years of experience. I co-founded Elevate Atl
 
 References: Avaliable upon request
 
+# Summary
+
+Driven Senior Software Engineer with a proven track record in diverse tech environments.
+Proficient in modernizing and scaling mature monoliths to enhance performance, reliability, and scalability. Skilled in leading pivotal projects, including integrations with diverse third-party APIs, and adept at crafting fundamental development patterns to streamline processes. Experience spans insurtech startups, digital platforms, and services-on-demand ventures. Strong mentorship ability and a commitment to leveraging cutting-edge technologies to drive innovation and efficiency.
 
 # Experience
 
