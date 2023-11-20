@@ -8,7 +8,7 @@ References: Avaliable upon request
 # Summary
 
 Experienced Full-Stack Ruby on Rails Developer and Co-Founder with 15+ years of diverse software development expertise.
-Co-founded Elevate Atlantic during participation in the Propel ICT startup accelerator. Adept in remote collaboration, maintaining, and enhancing existing applications across various teams. Demonstrated success in modernizing and scaling mature monoliths for improved performance and reliability. Proven leadership in pivotal integration projects involving diverse third-party APIs. Skilled in crafting foundational development patterns to optimize processes. Thrives in insurtech startups, digital platforms, and services-on-demand domains. Strong mentoring skills coupled with a commitment to leveraging cutting-edge technologies for innovation and operational efficiency.
+Co-founded Elevate Atlantic while participating in the Propel ICT startup accelerator. Adept in remote collaboration, maintaining, and enhancing existing applications across various teams. Demonstrated success in modernizing and scaling mature monoliths for improved performance and reliability. Proven leadership in pivotal integration projects involving diverse third-party APIs. Skilled in crafting foundational development patterns to optimize processes. Thrives in insurtech startups, digital platforms, and services-on-demand domains. Strong mentoring skills coupled with a commitment to leveraging cutting-edge technologies for innovation and operational efficiency.
 
 # Experience
 
