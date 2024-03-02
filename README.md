@@ -3,7 +3,7 @@
 
 [hireme@joesim.ms](mailto:hireme@joesim.ms)
 
-References: Avaliable upon request
+References: Available upon request
 
 ## Summary
 
